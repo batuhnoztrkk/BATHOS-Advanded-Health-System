@@ -1,0 +1,6 @@
+RewriteEngine on
+
+RewriteRule ^([0-9a-zA-Z-_]+)$ index.php?sayfa=$1 [L,QSA]
+RewriteRule ^$ index.php [L,QSA]
+
+php_value session.gc_maxlifetime 6000

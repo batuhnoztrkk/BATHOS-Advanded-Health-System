@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65990224-ad5a-4c40-9379-b82da9979e5d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/elasticsearch/elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/guzzlestreams" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/ringphp" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1zV1AFcxL4mpRcOysHlE2pldWnL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sensor" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\randevusistemi\bathos" />
+      <recent name="C:\xampp\htdocs\randevusistemi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\randevusistemi\bathos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65990224-ad5a-4c40-9379-b82da9979e5d" name="Changes" comment="" />
+      <created>1634218296062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634218296062</updated>
+      <workItem from="1634218297145" duration="28392000" />
+      <workItem from="1634558763696" duration="487000" />
+      <workItem from="1634559255676" duration="309000" />
+      <workItem from="1634559581755" duration="16000" />
+      <workItem from="1634559599344" duration="49000" />
+      <workItem from="1634559649903" duration="608000" />
+      <workItem from="1634723475836" duration="2147000" />
+      <workItem from="1635159653339" duration="5121000" />
+      <workItem from="1635164873331" duration="14645000" />
+      <workItem from="1635270104432" duration="9623000" />
+      <workItem from="1635327827424" duration="7951000" />
+      <workItem from="1635431502159" duration="22080000" />
+      <workItem from="1635546860162" duration="2573000" />
+      <workItem from="1635582392905" duration="33472000" />
+      <workItem from="1635712703446" duration="7447000" />
+      <workItem from="1635776692781" duration="2301000" />
+      <workItem from="1636062711951" duration="605000" />
+      <workItem from="1636213048350" duration="626000" />
+      <workItem from="1638912849311" duration="3234000" />
+      <workItem from="1639662864535" duration="17118000" />
+      <workItem from="1639931276105" duration="1744000" />
+      <workItem from="1639988896801" duration="582000" />
+      <workItem from="1640007800860" duration="100000" />
+      <workItem from="1640560952066" duration="677000" />
+      <workItem from="1640849594387" duration="2161000" />
+      <workItem from="1641037437016" duration="85000" />
+      <workItem from="1643181300526" duration="177000" />
+      <workItem from="1643278467695" duration="607000" />
+      <workItem from="1656514433123" duration="113000" />
+      <workItem from="1660929124019" duration="2263000" />
+      <workItem from="1668539089068" duration="782000" />
+      <workItem from="1675117120900" duration="803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

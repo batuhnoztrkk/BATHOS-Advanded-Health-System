@@ -1,0 +1,158 @@
+
+/*
+  Theme Name: Codeceil App
+  Author: Nababur Rahaman
+  Support: nababurbd@gmail.com
+  Website URL: https://codeceil.com
+  Author URL: https://github.com/nababur
+  Description: For share Codes and Snippets.
+  Version: 1.0
+*/
+
+
+/*Import Google Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&display=swap');
+
+
+
+body {
+
+  line-height: 24px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  visibility: visible;
+font-family: 'Nunito', sans-serif;
+  color: #222; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222;
+font-family: 'Nunito', sans-serif;
+  font-weight: 400;
+  margin-top: 0; }
+
+h1 {
+  font-size: 36px;
+  line-height: 42px; }
+
+h2 {
+  font-size: 32px;
+  line-height: 36px; }
+
+h3 {
+  font-size: 24px;
+  line-height: 30px; }
+
+h4 {
+  font-size: 18px;
+  line-height: 24px; }
+
+h5 {
+  font-size: 14px;
+  line-height: 18px; }
+
+h6 {
+  font-size: 12px;
+  line-height: 24px; }
+
+
+.alert {
+padding: 20px;
+background-color: #f44336;
+color: white;
+}
+
+.basari {
+	padding: 20px;
+	background-color: green;
+	color: white;
+}
+
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  font-family: Cambria, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  line-height: 1.4em;
+  text-transform:uppercase;
+  background:transparent url(bgbody.jpg) repeat top left;
+}
+.info a.back{
+  position: absolute;
+  bottom:20px;
+  left:10px;
+  text-decoration:none;
+  color:#603d05;
+  text-shadow:1px 1px 1px #fff;
+  font-weight:bold;
+}
+.info a.back:hover{
+  color:#000;
+}
+#header{
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:180px;
+  height:395px;
+  background:transparent url(title.png) no-repeat top left;
+}
+#content{
+  width:824px;
+  height:600px;
+  margin:-200px auto 0px auto;
+  background:transparent url(bg.gif) no-repeat bottom left;
+}
+#content h1{
+  color:#7F6137;
+  text-shadow:1px 1px 1px #fff;
+}
+#content p{
+  margin:20px;
+  width:600px;
+}
+#content .text{
+  padding:300px 0px 0px 100px;
+}
+ul#navigation {
+  position: fixed;
+  margin: 0px;
+  padding: 0px;
+  top: 0px;
+  right: 200px;
+  list-style: none;
+  z-index:999999;
+}
+ul#navigation li {
+  display:inline;
+  float:left;
+  width:100px;
+  margin-left:1px;
+
+}
+ul#navigation li a {
+  display: block;
+  font-weight:bold;
+  text-shadow:1px 1px 1px #fff;
+  float:left;
+  width: 100px;
+  height: 35px;
+  color:#603d05;
+  background:transparent url(../images/item.png) no-repeat bottom right;
+  text-decoration:none;
+  text-align:center;
+  padding-top:80px;
+  margin-top: -40px;
+  cursor:pointer;
+
+}
+ul#navigation li a:hover{
+
+}
+
+
